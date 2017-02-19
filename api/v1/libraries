@@ -14,7 +14,7 @@
       "zip_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/archive/master.zip",
       "zip_size": -1,
       "zip_sha256": "",
-      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/raw/master/icon.png",
+      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib/raw/master/library.png",
       "name": {
         "en_US": "LibrePCB Base"
       },
@@ -38,7 +38,7 @@
       "zip_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Connectors.lplib/archive/master.zip",
       "zip_size": -1,
       "zip_sha256": "",
-      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Connectors.lplib/raw/master/icon.png",
+      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_Connectors.lplib/raw/master/library.png",
       "name": {
         "en_US": "LibrePCB Connectors"
       },
@@ -63,7 +63,7 @@
       "zip_url": "https://github.com/LibrePCB-Libraries/LibrePCB_ICs.lplib/archive/master.zip",
       "zip_size": -1,
       "zip_sha256": "",
-      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_ICs.lplib/raw/master/icon.png",
+      "icon_url": "https://github.com/LibrePCB-Libraries/LibrePCB_ICs.lplib/raw/master/library.png",
       "name": {
         "en_US": "LibrePCB Integrated Circuits"
       },
@@ -88,7 +88,7 @@
       "zip_url": "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib/archive/master.zip",
       "zip_size": -1,
       "zip_sha256": "",
-      "icon_url": "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib/raw/master/icon.png",
+      "icon_url": "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib/raw/master/library.png",
       "name": {
         "en_US": "Isabellenhütte"
       },
@@ -113,7 +113,7 @@
       "zip_url": "https://github.com/LibrePCB-Libraries/Molex.lplib/archive/master.zip",
       "zip_size": -1,
       "zip_sha256": "",
-      "icon_url": "https://github.com/LibrePCB-Libraries/Molex.lplib/raw/master/icon.png",
+      "icon_url": "https://github.com/LibrePCB-Libraries/Molex.lplib/raw/master/library.png",
       "name": {
         "en_US": "Molex"
       },
@@ -139,7 +139,7 @@
       "zip_url": "https://github.com/LibrePCB-Libraries/STMicroelectronics.lplib/archive/master.zip",
       "zip_size": -1,
       "zip_sha256": "",
-      "icon_url": "https://github.com/LibrePCB-Libraries/STMicroelectronics.lplib/raw/master/icon.png",
+      "icon_url": "https://github.com/LibrePCB-Libraries/STMicroelectronics.lplib/raw/master/library.png",
       "name": {
         "en_US": "ST Microelectronics"
       },
